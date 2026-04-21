@@ -1,5 +1,5 @@
-hi, just some random guy that helps minecraft plugins and stuff.
-not really an important account yet.
+hi, call me Nopeeey.
+i work on minecraft plugins, hypixel housing code, and sometimes 1.8.9 mods.
 
 ## Contact Me :
 
